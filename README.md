@@ -1,5 +1,11 @@
 # Comunicação TCP com Cifra de César e Diffie-Hellman
 
+## Autores
+Maycon Silva Cardoso
+Arthur Farias dos Santos
+Eloá Torres Cunha
+Levi Matheus Bastos Sá
+
 Este projeto implementa uma comunicação entre um **cliente e um servidor TCP utilizando Python**.
 
 O objetivo é demonstrar conceitos fundamentais de **Sistemas Distribuídos**, **comunicação através de sockets**, **criptografia de mensagens** e **troca de chaves criptográficas**.
